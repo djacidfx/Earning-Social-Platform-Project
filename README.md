@@ -35,7 +35,9 @@ We are still in the early stages of development, but we have a clear vision for 
     The perfect social media platform would support a wide range of content formats, including text, images, videos, audio, and live streams. 
     It would also make it easy for creators to discover and be discovered by their audiences.
     No Government should be able to influance a business to follow it's agenda!
+**Powered by:**
 
+![Powered by WildCat Studio](https://repository-images.githubusercontent.com/710587424/594bef61-48e5-467e-a85d-5010e566d7e1))
 
 We know that building a new social media network is an ambitious goal. But we believe that it is possible with your help.
 
@@ -52,7 +54,7 @@ Thank you for your time and consideration.
 
 Donation link: [Click Here](https://donate.stripe.com/4gw3e19K7csnfpm7ss)
 
-###
+##
 Our Platform will have a wide range of features (subject to change), including but not limited to:
     User timeline: Users can create and share posts, photos, and videos on their timeline.
     Social login: Users can log in to their accounts using their existing social media accounts, such as Facebook, Twitter, and Google
@@ -71,7 +73,7 @@ Our Platform will have a wide range of features (subject to change), including b
     Audio and Video Chat: (will be added over time when demand calls for it) allows users to make audio and video calls with each other.
     Live Streaming: (will be added over time when demand calls for it) allows users to broadcast live video to their followers.
   
-*Here are some examples of how our platform can be used:*
+**Here are some examples of how our platform can be used:**
     A business could use our platform to create our social network for its customers. This would allow customers to connect with each other, share feedback, and learn about new products and services.
     A school or university could use our platform to create a social network for students, faculty, and staff. This would allow them to communicate with each other, share resources, and collaborate on projects.
     A community organization could use our platform to create a social network for its members. This would allow them to connect with each other, share news and events, and organize activities
