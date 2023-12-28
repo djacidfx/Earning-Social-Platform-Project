@@ -2,6 +2,8 @@
 This is our current project to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
 # Help Support This Project:
+Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around February 2024, and we'll keep you updated on our progress every step of the way.
+
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
 <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
@@ -83,10 +85,14 @@ Thank you for your time and consideration.
 - A community organization could use our platform to create a social network for its members. This would allow them to connect with each other, share news and events, and organize activities
 
   **What's already in progress and what's needed**
-  * Coding has already begun and will use PHP as the base and will use MYSQL for it's backbone database
-  * Name for the platform has yet to be established
-  * No hosting or domain name as of yet until after development in the local environment is finished
-  * Android, IOS and desktop app will be developed further down the line depending on demand
+- [x] Base Code Started ![](https://geps.dev/progress/65)
+- [ ] Platform Name
+- [ ] Hosting
+- [ ] Domain Name
+- [ ]  Android App ![](https://geps.dev/progress/40)
+- [ ]  IOS App
+- [ ]  Desktop App
+
 
 # System Features List:
 - Built with Laravel 10
