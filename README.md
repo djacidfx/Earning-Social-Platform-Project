@@ -1,5 +1,11 @@
-# Social Media Networking Prjoect
+# Our Social Media Networking Prjoect
 This is our current project to build and deploy a social media website
+
+# Support this project:
+<span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
+<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
 My fellow creators, innovators, and developers,
 
@@ -52,8 +58,6 @@ I know that many of you are already giving back to your communities in other way
 Together, we can build a new social media network that is truly different from the ones that exist today. A network that is built on the principles of community, authenticity, and empowerment.
 Thank you for your time and consideration.
 
-Donation link: [Click Here](https://donate.stripe.com/4gw3e19K7csnfpm7ss)
-
 ### Our Platform will have a wide range of features, including but not limited to:
 - User timeline: Users can create and share posts, photos, and videos on their timeline.
 - Social login: Users can log in to their accounts using their existing social media accounts, such as Facebook, Twitter, and Google
@@ -82,4 +86,95 @@ Donation link: [Click Here](https://donate.stripe.com/4gw3e19K7csnfpm7ss)
   * Name for the platform has yet to be established
   * No hosting or domain name as of yet until after development in the local environment is finished
   * Android, IOS and desktop app will be developed further down the line depending on demand
-    
+
+# Features List:
+- Built with Laravel 10
+- Subscription system
+- Stripe Connect
+- Live Streaming
+- Live Streaming Private
+- Stories
+- Coconut Video Encoding service
+- Scheduled posts
+- Creators can send welcome messages with video, photo, audio to new subscribers, and set a price
+- Push Notifications
+- Users can set the monthly subscription price
+- Multiple file uploads in one post and Message Chat
+- Creator can send message to all its subscribers at the same time (Mass Messages)
+- Bootstrap
+- Implemented GDPR
+- Banner Cookies Policy
+- Strong Customer Authentication (SCA) in stripe for customers with business in Europe.
+- Dashboard with Statistics and balance of your account
+- Storage (Local, Amazon, DigitalOcean, Wasabi, Backblaze B2 and Vultr)
+- Notifications Real-time
+- Online / offline user
+- Google reCAPTCHA
+- Edit your page (profile)
+- Account verification by uploading ID or Passport
+- Verified users will display a badge
+- Create unlimited posts Free and Premium
+- Creators can change their name, username and password
+- Creators manage their posts
+- Feed from recent posts of creators subscribed
+- Infinite scroll
+- Categories
+- SEO on Pages
+- SEO on Categories
+- Upload Avatar
+- Upload Cover
+- Setting your Payout method (PayPal or Bank Transfer)
+- Make withdrawals when you reach the minimum amount established by admin
+- Search creators by Name/Username, categories and filter by featured and new
+- Integration with PayPal (Recurrent)
+- Integration with Stripe with (SCA) (Recurrent)
+- Creators Featured
+- Social Login with Facebook and Google
+- Email Verification
+- Users can like in posts
+- Users can comment on posts
+- Ajax Comments
+- Upload Photos
+- GIF Animated
+- Upload Videos MP4/MOV (quicktime)
+- Upload Audio MP3
+- Social profiles
+- Sending mail to the user when a withdrawal payment is sent.
+- You can report posts and creators
+- Current balance of the creator in the drop-down menu
+- XSS: Protection from cross site scripting
+- Secure Bcrypt password hashing
+- SMTP Support
+- Share your page URL (Profile) or share on Facebook and Twitter
+- Easy translation
+- Multilanguage
+- Option Delete Account
+- Link to @username and #hashtag on posts and comments
+- Progress bar on Upload
+- Message system with creators, they can send photos, videos and audios
+- Infinite scroll on Message system
+- Creator can edit posts and replace Media
+- Lazyload Images
+- History of payments made and received
+- Sitemap
+- Email notifications (New subscriber, Tips, PPV)
+- Blog
+- Contact us page
+- Invoices for payments made
+
+# Backend Features:
+- Set General Settings (Name Site,Keywords,Currency Position,others)
+- Change Logo/Favicon/Avatar Default/Images on Index
+- Manage Subscriptions
+- Accept / reject, ID verifications
+- Create/Update/Delete Categories
+- View/Delete Reports
+- View/Pay Withdrawals
+- Add code Google Analytics
+- Update/Delete Members
+- Create/Update/Delete Pages
+- Set Payment Settings
+- Set Profiles Social
+- Set limits (Auto approve Post, File size allowed, etc)
+- Statistics
+- Maintenance mode
