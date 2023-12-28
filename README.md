@@ -1,12 +1,13 @@
 # Our Social Media Networking Prjoect
-This is our current project to build and deploy a social media website
+This is our current project to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
-# Support this project:
+# Help Support This Project:
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
 <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
+# Our Current Project
 My fellow creators, innovators, and developers,
 
 I stand before you today to ask for your support in developing a new social media network. A network that is built on the principles of community, authenticity, and empowerment.
@@ -87,7 +88,7 @@ Thank you for your time and consideration.
   * No hosting or domain name as of yet until after development in the local environment is finished
   * Android, IOS and desktop app will be developed further down the line depending on demand
 
-# Features List:
+# System Features List:
 - Built with Laravel 10
 - Subscription system
 - Stripe Connect
@@ -166,6 +167,7 @@ Thank you for your time and consideration.
 - Set General Settings (Name Site,Keywords,Currency Position,others)
 - Change Logo/Favicon/Avatar Default/Images on Index
 - Manage Subscriptions
+- Maintenance mode
 - Accept / reject, ID verifications
 - Create/Update/Delete Categories
 - View/Delete Reports
@@ -177,4 +179,24 @@ Thank you for your time and consideration.
 - Set Profiles Social
 - Set limits (Auto approve Post, File size allowed, etc)
 - Statistics
-- Maintenance mode
+
+# Current System Requirements:
+- PHP 8.1 or Greater
+- MySQL 5.7 or Mariadb 10.3.17
+- PDO PHP Extension
+- Ctype PHP Extension
+- GD or Imagick
+- DOM PHP Extension
+- Fileinfo PHP Extension
+- Filter PHP Extension
+- Hash PHP Extension
+- Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PCRE PHP Extension
+- Session PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+- cURL PHP Extension
+- EXIF
+- allow_url_fopen (PHP.INI) is ON
+- FFMPEG
