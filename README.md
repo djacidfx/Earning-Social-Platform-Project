@@ -7,7 +7,7 @@ This is our current project to build and deploy a social media platform where co
 <span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
-# Our Current Project
+# Built By Creators For Creators
 My fellow creators, innovators, and developers,
 
 I stand before you today to ask for your support in developing a new social media network. A network that is built on the principles of community, authenticity, and empowerment.
