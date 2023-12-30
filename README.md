@@ -1,10 +1,15 @@
 # Our Social Media Networking Prjoect
 This is our current project to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
-# Help Support This Project:
+# Cost Break Down:
 Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around February 2024, and we'll keep you updated on our progress every step of the way.
 
-Our Goal: $5,000
+- Development - $2,000
+- Maintance   - $1,500
+- VPS Hosting - $500 1st Year
+- Domain Name - $30  1st Year
+- Misc/Other  - $970/year
+Our Goal: Roughly $5,000
 
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
 <span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
