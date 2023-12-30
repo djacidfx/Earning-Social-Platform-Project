@@ -9,6 +9,7 @@ Developing and maintaining a social media platform is no small feat so, We're no
 - VPS Hosting - $500 1st Year
 - Domain Name - $30  1st Year
 - Misc/Other  - $970/year
+
 Our Goal: Roughly $5,000
 
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
