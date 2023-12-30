@@ -36,6 +36,7 @@ We are still in the early stages of development, but we have a clear vision for 
 - The perfect social media platform would support a wide range of content formats, including text, images, videos, audio, and live streams. 
 - It would also make it easy for creators to discover and be discovered by their audiences.
 - No Government should be able to influance a business to follow it's agenda!
+
 **Powered by:**
 
 ![Powered by WildCat Studio](https://repository-images.githubusercontent.com/710587424/594bef61-48e5-467e-a85d-5010e566d7e1))
