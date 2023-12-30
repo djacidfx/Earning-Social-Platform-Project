@@ -77,13 +77,13 @@ Thank you for your time and consideration.
 - A community organization could use our platform to create a social network for its members. This would allow them to connect with each other, share news and events, and organize activities
 
   **What's already in progress and what's needed**
-- [x] Base Code Started ![](https://geps.dev/progress/65)
+- [x] Base Code Finished ![](https://geps.dev/progress/65)
 - [ ] Platform Name
 - [ ] Hosting
 - [ ] Domain Name
-- [ ]  Android App ![](https://geps.dev/progress/40)
-- [ ]  IOS App
-- [ ]  Desktop App
+- [ ] Android App ![](https://geps.dev/progress/40)
+- [ ] IOS App
+- [ ] Desktop App
 
 # The Cost Break Down:
 Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around February 2024, and we'll keep you updated on our progress every step of the way.
