@@ -99,7 +99,7 @@ Our goal is roughly $5,000 for the first year
 <span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
 <span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
-# System Features List:
+# System Features:
 - Built with Laravel 10
 - Subscription system
 - Stripe Connect
@@ -112,13 +112,12 @@ Our goal is roughly $5,000 for the first year
 - Push Notifications
 - Users can set the monthly subscription price
 - Multiple file uploads in one post and Message Chat
-- Creator can send message to all its subscribers at the same time (Mass Messages)
+- Creator can send message to all their subscribers at the same time (Mass Messages)
 - Bootstrap
 - Implemented GDPR
 - Banner Cookies Policy
 - Strong Customer Authentication (SCA) in stripe for customers with business in Europe.
 - Dashboard with Statistics and balance of your account
-- Storage (Local, Amazon, DigitalOcean, Wasabi, Backblaze B2 and Vultr)
 - Notifications Real-time
 - Online / offline user
 - Google reCAPTCHA
@@ -140,7 +139,7 @@ Our goal is roughly $5,000 for the first year
 - Search creators by Name/Username, categories and filter by featured and new
 - Integration with PayPal (Recurrent)
 - Integration with Stripe with (SCA) (Recurrent)
-- Creators Featured
+- Featured Creators
 - Social Login with Facebook and Google
 - Email Verification
 - Users can like in posts
@@ -158,7 +157,6 @@ Our goal is roughly $5,000 for the first year
 - Secure Bcrypt password hashing
 - SMTP Support
 - Share your page URL (Profile) or share on Facebook and Twitter
-- Easy translation
 - Multilanguage
 - Option Delete Account
 - Link to @username and #hashtag on posts and comments
@@ -168,28 +166,8 @@ Our goal is roughly $5,000 for the first year
 - Creator can edit posts and replace Media
 - Lazyload Images
 - History of payments made and received
-- Sitemap
 - Email notifications (New subscriber, Tips, PPV)
-- Blog
-- Contact us page
 - Invoices for payments made
-
-# Backend Features:
-- Set General Settings (Name Site,Keywords,Currency Position,others)
-- Change Logo/Favicon/Avatar Default/Images on Index
-- Manage Subscriptions
-- Maintenance mode
-- Accept / reject, ID verifications
-- Create/Update/Delete Categories
-- View/Delete Reports
-- View/Pay Withdrawals
-- Add code Google Analytics
-- Update/Delete Members
-- Create/Update/Delete Pages
-- Set Payment Settings
-- Set Profiles Social
-- Set limits (Auto approve Post, File size allowed, etc)
-- Statistics
 
 # Current System Requirements:
 - PHP 8.1 or Greater
