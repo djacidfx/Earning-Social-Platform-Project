@@ -79,9 +79,9 @@ Thank you for your time and consideration.
 
   **What's already in progress and what's needed**
 - [x] Base Code Finished ![](https://geps.dev/progress/65)
-- [ ] Platform Name
-- [ ] Hosting
-- [ ] Domain Name
+- [x] Platform Name
+- [x] Hosting
+- [x] Domain Name
 - [ ] Android App ![](https://geps.dev/progress/40)
 - [ ] IOS App
 - [ ] Desktop App
