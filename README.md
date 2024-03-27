@@ -6,6 +6,8 @@ First we wanted to say that at this time, we are not exploring any external serv
 
 This is our current project to Update our current website to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
+*Be sure to check out our [Wiki Page](https://github.com/djacidfx/Earning-Social-Platform-Project/wiki), We also have a [discussion](https://github.com/djacidfx/Earning-Social-Platform-Project/discussions) page if you want to interact with the community and check out our [Kickstarter Page](https://www.kickstarter.com/projects/wildcatstudio/earning-social-platform-project) or [Buy Me A Coffee](https://buymeacoffee.com/wildcatstudio) Page for if you want to show some support!*
+
 ## Built By Creators For Creators
 
 **My fellow creators, innovators, and developers,**
