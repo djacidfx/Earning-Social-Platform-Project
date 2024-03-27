@@ -85,60 +85,60 @@ Developing and maintaining a social media platform is no small feat so, We're no
 
 ## System Features we want to use:
 
-Built with Laravel 10
-Subscription system
-Stripe Connect
-Live Streaming
-Live Streaming Private
-Stories
-Coconut Video Encoding service
-Scheduled posts
-Creators can send welcome messages with video, photo, audio to new subscribers, and set a price
-Push Notifications
-Users can set the monthly subscription price
-Multiple file uploads in one post and Message Chat
-Creator can send message to all their subscribers at the same time (Mass Messages)
-Bootstrap
-Implemented GDPR
-Strong Customer Authentication (SCA) in stripe for customers with business in Europe.
-Dashboard with Statistics and balance of your account
-Notifications Real-time
-Online / offline user
-Edit your page (profile)
-Account verification by uploading ID or Passport
-Verified users will display a badge
-Create unlimited posts Free and Premium
-Creators can change their name, username and password
-Creators manage their posts
-Feed from recent posts of creators subscribed
-Infinite scroll
-Categories
-Upload Avatar
-Upload Cover
-Setting your Payout method (PayPal, Stripe, ect.)
-Make withdrawals when you reach the minimum amount
-Search creators by Name/Username, categories and filter by featured and new
-Integration with PayPal (Recurrent)
-Integration with Stripe with (SCA) (Recurrent)
-Featured Creators
-Users can like in posts
-Users can comment on posts
-Ajax Comments
-Upload Photos
-GIF Animated
-Upload Videos MP4/MOV (quicktime)
-Upload Audio MP3
-Social profiles
-You can report posts and creators
-Current balance of the creator in the drop-down menu
-XSS: Protection from cross site scripting
-Share your page URL (Profile) or share on Facebook and Twitter
-Multilanguage
-Option Delete Account
-Link to @username and #hashtag on posts and comments
-Message system with creators, they can send photos, videos and audios
-Infinite scroll on Message system
-Creator can edit posts and replace Media
-History of payments made and received
-Email notifications (New subscriber, Tips, PPV)
-Invoices for payments made
+- Built with Laravel 10
+- Subscription system
+- Stripe Connect
+- Live Streaming
+- Live Streaming Private
+- Stories
+- Coconut Video Encoding service
+- Scheduled posts
+- Creators can send welcome messages with video, photo, audio to new subscribers, and set a price
+- Push Notifications
+- Users can set the monthly subscription price
+- Multiple file uploads in one post and Message Chat
+- Creator can send message to all their subscribers at the same time (Mass Messages)
+- Bootstrap
+- Implemented GDPR
+- Strong Customer Authentication (SCA) in stripe for customers with business in Europe.
+- Dashboard with Statistics and balance of your account
+- Notifications Real-time
+- Online / offline user
+- Edit your page (profile)
+- Account verification by uploading ID or Passport
+- Verified users will display a badge
+- Create unlimited posts Free and Premium
+- Creators can change their name, username and password
+- Creators manage their posts
+- Feed from recent posts of creators subscribed
+- Infinite scroll
+- Categories
+- Upload Avatar
+- Upload Cover
+- Setting your Payout method (PayPal, Stripe, ect.)
+- Make withdrawals when you reach the minimum amount
+- Search creators by Name/Username, categories and filter by featured and new
+- Integration with PayPal (Recurrent)
+- Integration with Stripe with (SCA) (Recurrent)
+- Featured Creators
+- Users can like in posts
+- Users can comment on posts
+- Ajax Comments
+- Upload Photos
+- GIF Animated
+- Upload Videos MP4/MOV (quicktime)
+- Upload Audio MP3
+- Social profiles
+- You can report posts and creators
+- Current balance of the creator in the drop-down menu
+- XSS: Protection from cross site scripting
+- Share your page URL (Profile) or share on Facebook and Twitter
+- Multilanguage
+- Option Delete Account
+- Link to @username and #hashtag on posts and comments
+- Message system with creators, they can send photos, videos and audios
+- Infinite scroll on Message system
+- Creator can edit posts and replace Media
+- History of payments made and received
+- Email notifications (New subscriber, Tips, PPV)
+-Invoices for payments made
