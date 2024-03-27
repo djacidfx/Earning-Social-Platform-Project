@@ -1,4 +1,6 @@
 # Our Social Media Networking Prjoect
+**See our KickStarter Page, [Click Here](https://www.kickstarter.com/projects/wildcatstudio/earning-social-platform-project) to visit, share and support if you can!**
+
 This is our current project to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
 # Built By Creators For Creators
