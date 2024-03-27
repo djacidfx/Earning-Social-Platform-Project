@@ -110,7 +110,7 @@ The Earning Social Platform Project presents a refreshing vision of what social 
 - [ ] Desktop App
 
 # The Cost Break Down:
-Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around February 2024, and we'll keep you updated on our progress every step of the way.
+Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around December 2024, and we'll keep you updated on our progress every step of the way.
 
 - Development - $2,000
 - Maintance   - $1,500
