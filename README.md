@@ -1,14 +1,14 @@
 
 
-Our Social Media Networking Project
+## Our Social Media Networking Project
 
 First we wanted to say that at this time, we are not exploring any external services or paid offers to boost our campaign. Thank you for your understanding. Now, on to the good stuff!
 
 This is our current project to Update our current website to build and deploy a social media platform where content creators, writers, designers, developers, photographers or any other branch can monetize their content by receiving subscriptions from their most loyal followers or just anyone who likes their work. They can create free and premium posts for their subscribers.
 
-Built By Creators For Creators
+## Built By Creators For Creators
 
-My fellow creators, innovators, and developers,
+**My fellow creators, innovators, and developers,**
 
 I stand before you today to ask for your support in developing a new social media network. A network that is built on the principles of community, authenticity, and empowerment.
 
@@ -20,70 +20,70 @@ I believe that social media has the power to be a force for good in the world. I
 
 But that potential can only be realized if we create a social media network that is truly different from the ones that exist today. A network that is built on the following principles:
 
-Community: We believe that social media should be a place where people can come together to build relationships and support each other.
-Authenticity: We believe that social media should be a place where people can be themselves and share their true stories.
-Empowerment: We believe that social media should be a tool that people can use to make a difference in the world.
-Privacy and data protection: We will give users control over their data and allow them to opt out of targeted advertising.
-Transparency and accountability: We will be transparent about our algorithms and how we moderate content.
-Community and connection: We will create a platform where users can connect with others who share their interests and values.
-Well-being and productivity: We will design our platform to promote positive mental health and well-being, and to help users be more productive.
+- Community: We believe that social media should be a place where people can come together to build relationships and support each other.
+- Authenticity: We believe that social media should be a place where people can be themselves and share their true stories.
+- Empowerment: We believe that social media should be a tool that people can use to make a difference in the world.
+- Privacy and data protection: We will give users control over their data and allow them to opt out of targeted advertising.
+- Transparency and accountability: We will be transparent about our algorithms and how we moderate content.
+- Community and connection: We will create a platform where users can connect with others who share their interests and values.
+- Well-being and productivity: We will design our platform to promote positive mental health and well-being, and to help users be more productive.
 
 We are still in the early stages of development, but we have a clear vision for the future. We envision a social media network that:
 
-Empowers users to control their own data and privacy: Users should be able to choose what information they share about themselves, who can see it, and how it is used.
-They should also be able to easily export their data from the platform if they decide to leave.
-Promotes meaningful connections and interaction.
-Social media should be more than just a platform for broadcasting content.
-It should be a place where people can connect with others, share their experiences, and learn from each other.
-The perfect social media platform would make it easy for users to find and connect with people who share their interests, and to have meaningful conversations with them.
-Supports a diverse range of content and creators.
-Social media should be a platform for all voices, not just the voices of the powerful and privileged.
-The perfect social media platform would support a wide range of content formats, including text, images, videos, audio, and live streams.
-It would also make it easy for creators to discover and be discovered by their audiences.
-No Government should be able to influance a business to follow it's agenda!
+- Empowers users to control their own data and privacy: Users should be able to choose what information they share about themselves, who can see it, and how it is used.
+- They should also be able to easily export their data from the platform if they decide to leave.
+- Promotes meaningful connections and interaction.
+- Social media should be more than just a platform for broadcasting content.
+- It should be a place where people can connect with others, share their experiences, and learn from each other.
+- The perfect social media platform would make it easy for users to find and connect with people who share their interests, and to have meaningful conversations with them.
+- Supports a diverse range of content and creators.
+- Social media should be a platform for all voices, not just the voices of the powerful and privileged.
+- The perfect social media platform would support a wide range of content formats, including text, images, videos, audio, and live streams.
+- It would also make it easy for creators to discover and be discovered by their audiences.
+- No Government should be able to influance a business to follow it's agenda!
 
-We know that building a new social media network is an ambitious goal. But we believe that it is possible with your help.
+**We know that building a new social media network is an ambitious goal. But we believe that it is possible with your help.**
 
 That's why I'm asking you to donate today. Your donation will help us to:
 
-Provide funding that will go to development costs in order to build our platform.
-Acquire a powerful hosting provider and domain name.
-Launch our network and get the word out.
-Support our community and help them to make the most of our platform.
+- Provide funding that will go to development costs in order to build our platform.
+- Acquire a powerful hosting provider and domain name.
+- Launch our network and get the word out.
+- Support our community and help them to make the most of our platform.
 
 I know that many of you are already giving back to your communities in other ways. But if you can afford to donate, even a small amount, it would make a big difference. Together, we can build a new social media network that is truly different from the ones that exist today. A network that is built on the principles of community, authenticity, and empowerment. Thank you for your time and consideration.
 
-Our Platform will have a wide range of features we hope to implement, including but not limited to:
+**Our Platform will have a wide range of features we hope to implement, including but not limited to:**
 
-User timeline: Users can create and share posts, photos, and videos on their timeline.
-Social login: Users can log in to their accounts using their existing social media accounts, such as Facebook, Twitter, and Google
-@mentions: Users can mention other users in their posts and comments.
-Profile picture: Users can upload and display a profile picture
-Post privacy: Users can control who sees their posts by setting the privacy level.
-User Profiles: allows users to create and customize their own profiles, including profile pictures, cover photos, and bios. Users can also follow other users, view their profiles, and send them private messages.
-Timeline: users have a timeline where they can see posts from the people they follow, as well as their own posts. Users can also like, comment, and share posts.
-Groups: allows users to create and join groups where they can discuss common interests and share content.
-Pages: allows users to create and manage pages for businesses, organizations, or other entities. Pages can be used to share information, promote products or services, and interact with followers.
-Events: allows users to create and manage events. Users can invite their friends to events and RSVP to events created by others.
-Marketplace: allows for users to buy, sell and trade with others
-Blog: allows users to create and publish blog posts. Users can also subscribe to other users' blogs and receive notifications when they publish new posts.
-Photos and Videos: allows users to upload and share photos and videos. Users can also view and comment on photos and videos uploaded by other users.
-Audio and Video Chat: (will be added over time when demand calls for it) allows users to make audio and video calls with each other.
-Live Streaming: (will be added over time when demand calls for it) allows users to broadcast live video to their followers.
+- User timeline: Users can create and share posts, photos, and videos on their timeline.
+- Social login: Users can log in to their accounts using their existing social media accounts, such as Facebook, Twitter, and Google
+- @mentions: Users can mention other users in their posts and comments.
+- Profile picture: Users can upload and display a profile picture
+- Post privacy: Users can control who sees their posts by setting the privacy level.
+- User Profiles: allows users to create and customize their own profiles, including profile pictures, cover photos, and bios. Users can also follow other users, view their profiles, and send them private messages.
+- Timeline: users have a timeline where they can see posts from the people they follow, as well as their own posts. Users can also like, comment, and share posts.
+- Groups: allows users to create and join groups where they can discuss common interests and share content.
+- Pages: allows users to create and manage pages for businesses, organizations, or other entities. Pages can be used to share information, promote products or services, and interact with followers.
+- Events: allows users to create and manage events. Users can invite their friends to events and RSVP to events created by others.
+- Marketplace: allows for users to buy, sell and trade with others
+- Blog: allows users to create and publish blog posts. Users can also subscribe to other users' blogs and receive notifications when they publish new posts.
+- Photos and Videos: allows users to upload and share photos and videos. Users can also view and comment on photos and videos uploaded by other users.
+- Audio and Video Chat: (will be added over time when demand calls for it) allows users to make audio and video calls with each other.
+- Live Streaming: (will be added over time when demand calls for it) allows users to broadcast live video to their followers.
 
-The Cost Break Down:
+## The Cost Break Down:
 
 Developing and maintaining a social media platform is no small feat so, We're not setting a deadline because we believe in taking the time to do things right. We aim for an initial release around March 2024, and we'll keep you updated on our progress every step of the way.
 
-Development - $2,000
-Maintance - $1,500
-Misc/Other - $1,000 1st year
-VPS Hosting - $500 1st Year
-Domain Name - $30 1st Year
+- Development - $2,000
+- Maintance - $1,500
+- Misc/Other - $1,000 1st year
+- VPS Hosting - $500 1st Year
+- Domain Name - $30 1st Year
 
-Our goal is roughly $5,000 for the first year
+**Our goal is roughly $5,000 for the first year**
 
-System Features we want to use:
+## System Features we want to use:
 
 Built with Laravel 10
 Subscription system
