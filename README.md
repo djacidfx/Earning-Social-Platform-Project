@@ -71,6 +71,33 @@ Thank you for your time and consideration.
 - Photos and Videos: allows users to upload and share photos and videos. Users can also view and comment on photos and videos uploaded by other users.
 - Audio and Video Chat: (will be added over time when demand calls for it) allows users to make audio and video calls with each other.
 - Live Streaming: (will be added over time when demand calls for it) allows users to broadcast live video to their followers.
+
+**Risks and challenges**
+
+The Earning Social Platform Project is an ambitious endeavor that seeks to upend the current social media landscape. Its vision of a creator-empowered, authentic, and transparent social network is a worthy aspiration. However, like any significant undertaking, it faces potential risks and challenges that must be addressed for success.
+
+Key Challenges
+
+- Building a Large User Base: The success of any social platform lies in its ability to attract and retain a critical mass of users. Traditional social media giants have a firm hold on the market. The Earning Social Platform Project will need compelling incentives and innovative features to convince users to leave the platforms they know and migrate to a new one.
+- Competition: Even outside major social media companies, the Earning Social Platform Project faces competition from existing platforms (for example, Patreon) and other potentially disruptive newcomers. It must find a way to stand out in a crowded field.
+- Funding and Sustainability: Development, launch, and ongoing maintenance of a robust social media network require significant resources. Sustainable business models must be established to ensure longevity. Crowdfunding and user subscriptions are starting points, but ensuring long-term profitability is crucial.
+- Maintaining Authenticity and Positive Community: Attracting a large user base is crucial, but the platform aims to foster a different kind of social environment than current popular options. It's essential to create systems that effectively manage abuse, trolling, and the spread of misinformation – major problems in existing platforms. The goal of authenticity is noble, but difficult to consistently enforce effectively.
+- Technological Hurdles and Implementation: Building a social media platform from the ground up involves complex technical challenges and resource demands. The development team must create a secure, scalable, and user-friendly experience across multiple devices.
+- Data Privacy and Security: User trust will be critical. Ensuring the platform adheres to robust data privacy and security standards is not just a user expectation, but a legal necessity in many areas.
+    Balancing User Control with Content Moderation: Giving users full control over their data and who sees it seems ideal, but this can cause tension with the need to create a safe and welcoming environment. The project needs to carefully consider how to handle harmful content and behavior when allowing for maximum user control.
+
+**Mitigating Risks**
+
+To address these challenges, the Earning Social Platform Project needs:
+
+- Clear Value Proposition: Offer something genuinely unique and attractive to potential users.
+- Focus on Niche Communities: Growing a loyal user base might be easier through initially targeting well-defined interest groups unsatisfied with existing options.
+- Robust Moderation Plan: Develop clear content moderation policies and tools, prioritizing both transparency and protecting the well-being of users.
+- Transparent Business Model: Demonstrate how revenue will be generated to ensure the platform's long-term sustainability.
+- Strong Development Team: Assemble experienced developers capable of delivering a polished and reliable user experience.
+
+The Earning Social Platform Project presents a refreshing vision of what social media can be. Overcoming the outlined challenges will be crucial to turning this vision into a widely adopted reality. While the path is demanding, a successful execution of this platform could pave the way for a more rewarding and authentic social media experience for creators and users alike.
+
   
 **Here are some examples of how our platform can be used:**
 - A business could use our platform to create our social network for its customers. This would allow customers to connect with each other, share feedback, and learn about new products and services.
@@ -170,26 +197,6 @@ Our goal is roughly $5,000 for the first year
 - Email notifications (New subscriber, Tips, PPV)
 - Invoices for payments made
 
-# Current System Requirements:
-- PHP 8.1 or Greater
-- MySQL 5.7 or Mariadb 10.3.17
-- PDO PHP Extension
-- Ctype PHP Extension
-- GD or Imagick
-- DOM PHP Extension
-- Fileinfo PHP Extension
-- Filter PHP Extension
-- Hash PHP Extension
-- Mbstring PHP Extension
-- OpenSSL PHP Extension
-- PCRE PHP Extension
-- Session PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
-- cURL PHP Extension
-- EXIF
-- allow_url_fopen (PHP.INI) is ON
-- FFMPEG
 
 # 💫 About Me:
 @wildcatstudios I am a passionate and enthusiastic hobbyist programming engineer with a knack for solving problems and creating innovative projects. 
