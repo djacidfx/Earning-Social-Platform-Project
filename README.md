@@ -12,7 +12,7 @@ This is our current project to build and deploy a social media platform where co
 
 **My fellow creators, innovators, and developers,**
 
-I stand before you today to ask for your support in developing a new social media network. A network that is built on the principles of community, authenticity, and empowerment.
+I stand before you today to ask for your support in developing a new social media earning platform. A network that is built on the principles of community, authenticity, empowerment and earning for content creators.
 
 I know that many of you are tired of the current social media landscape. A landscape that is dominated by algorithms, echo chambers, and misinformation. A landscape that often feels more divisive than inclusive.
 
