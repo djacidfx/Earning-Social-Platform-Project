@@ -87,6 +87,8 @@ Developing and maintaining a social media platform is no small feat so, We're no
 
 **Our goal is roughly $5,000 for the first year**
 
+![](https://geps.dev/progress/35)
+
 ## System Features we want to use:
 
 - Built with Laravel 10
